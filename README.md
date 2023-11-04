@@ -76,8 +76,11 @@ tailored for users seeking an unobtrusive yet functional digital clock for their
    2. Configuration:
       - Explore any configuration options such as colour change
 
-# Screenshots   
+# Screenshots 
+Clock with Alarm image
 > [src/](https://github.com/NonyeP/Java-Digital-Clock/blob/main/ClockWithAlarm.jpg)
+
+Digital Clock image
 > [src/](https://github.com/NonyeP/Java-Digital-Clock/blob/main/DigitalClock.jpg)
 
 # Additional Notes
