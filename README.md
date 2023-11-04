@@ -1,7 +1,7 @@
 # Java-Digital-Clock
 The Java digital clock is a simple user friendly desktop application built in Java
 
-It displays the current time in a digital format, offering a clear and easy-to-read interface. This application provides a basic yet effective solution for users looking for a straightforward digital clock on their desktop, eliminating the need for accessing an external time source. The clock is designed to be intuitive and easily accessible, catering to a wide range of users seeking a no-frills, functional timekeeping tool.
+It displays the current time in a digital format and date, offering a clear and easy-to-read interface. This application provides a basic yet effective solution for users looking for a straightforward digital clock with date on their desktop, eliminating the need for accessing an external time source or calender. The clock is designed to be intuitive and easily accessible, catering to a wide range of users seeking a no-frills, functional timekeeping tool.
 
 # Table of Contents
   - Overview
@@ -19,17 +19,17 @@ tailored for users seeking an unobtrusive yet functional digital clock for their
 
 # Features
 
-  1. Current Time Display:
-     - Provides the current time in hours, minutes, and optionally seconds.
+  1. Current Time and Date Display:
+     - Provides the current time in hours, minutes, and optionally seconds with current date.
 
   2. User-Friendly Interface:
-     - Offers a straightforward and easily navigable interface for quick time viewing.
+     - Offers a straightforward and easily navigable interface for quick time and date viewing.
 
-  3. 24-Hour Clock Format:
-     - supports 24-hour time display formats based on user preference.
+  3. 24-Hour Clock Format and Year-Month-Date Format:
+     - supports 24-hour time display formats based and date display.
  
   4. Customization Options:
-     - Allows minor customization such as color themes
+     - Allows minor customization such as color themes.
 
   5. Minimalistic Design:
      - Embraces a simple and clean design, avoiding unnecessary features for an uncluttered experience.
@@ -41,7 +41,7 @@ tailored for users seeking an unobtrusive yet functional digital clock for their
      - Designed to run on various operating systems with Java support, ensuring widespread usability.
 
   8. Real-Time Update:
-     - Regularly updates the displayed time without manual intervention, ensuring accuracy.
+     - Regularly updates the displayed time and date without manual intervention, ensuring accuracy.
 
   9. Accessibility and Readability:
       - Prioritizes readability for users across different age groups and visual capabilities.
