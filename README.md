@@ -77,7 +77,7 @@ tailored for users seeking an unobtrusive yet functional digital clock for their
       - Explore any configuration options such as colour change
 
 # Screenshots   
-> src/
+> [src/](https://github.com/NonyeP/Java-Digital-Clock/blob/main/ClockWithAlarm.jpg)
 
 # Additional Notes
   - Updates and Maintenance: Check for updates or newer versions of the Digital Clock application as provided by the developer.
