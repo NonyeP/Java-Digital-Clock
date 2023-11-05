@@ -78,10 +78,10 @@ tailored for users seeking an unobtrusive yet functional digital clock for their
 
 # Screenshots 
 Clock with Alarm image
-> [src/](https://github.com/NonyeP/Java-Digital-Clock/blob/main/ClockWithAlarm.jpg)
+> [src/](https://github.com/NonyeP/Java-Digital-Clock/blob/main/ClockAlarm.png)
 
 Digital Clock image
-> [src/](https://github.com/NonyeP/Java-Digital-Clock/blob/main/DigitalClock.jpg)
+> [src/](https://github.com/NonyeP/Java-Digital-Clock/blob/main/DigitalClock.png)
 
 # Additional Notes
   - Updates and Maintenance: Check for updates or newer versions of the Digital Clock application as provided by the developer.
